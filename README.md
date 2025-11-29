@@ -31,8 +31,6 @@ The number of modes propagating through the fiber depends on V-number. If the fi
 A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed modes is small enough that they may be individually identified when the output of the fiber is examined.
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
-<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/329049af-ede8-46ae-991f-bfabb258ad7d" />
-
 
 PROCEDURE:
 1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
@@ -52,7 +50,9 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- ![exp1-opt com](https://github.com/user-attachments/assets/9131d46b-5384-47f5-b4be-6681437dff0b)
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/97f5d532-dece-4e80-825d-ef780707a762" />
+<img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/6e3be586-afc5-4dbd-a9b0-d03df7cfa205" />
+
 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
